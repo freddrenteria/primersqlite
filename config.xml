@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.jorge.agenda"
+    version   = "1.0.0">
+<name>Agenda curso</name>
+<description>
+Agenda inicial
+</description>
+<author href="https://www.contanimacion.com" email="info@contanimacion.com">
+Arturo
+</author>
+<gap:plugin name="org.apache.cordova.dialogs" />
+<preference name="phonegap-version" value="3.7.0" />
+</widget>
